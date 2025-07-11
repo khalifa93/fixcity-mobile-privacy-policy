@@ -1,6 +1,6 @@
 # Privacy Policy – FixCity
 
-_Last updated: July 2024_
+_Last updated: July 2025_
 
 FixCity (“we”, “us”, or “our”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (“App”) and related services.
 
@@ -94,4 +94,7 @@ If you have any questions or concerns about this Privacy Policy or your data, pl
 
 **Note:**  
 - If you use analytics, crash reporting, or third-party services, mention them specifically.
-- If you collect more sensitive data (e.g., ID numbers, photos of people), add details about how you protect and use that data. 
+- If you collect more sensitive data (e.g., ID numbers, photos of people), add details about how you protect and use that data.
+
+> Disclaimer:
+> FixCity is an independent platform and is not affiliated with or endorsed by any government or municipal authority. Reports submitted through this app may not be received or acted upon by your local government.
